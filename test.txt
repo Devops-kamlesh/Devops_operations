@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello this file pushing from windows 10 
 on date of 28/08/2021
+=======
+hi kamlesh ray 
+hello
+hi it's getting so hard ...
+>>>>>>> 491c2bca3276daae6197e1e57d33ceb6d6470494
